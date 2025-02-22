@@ -78,6 +78,8 @@ Time Management
 Flexibility
 
 Projects Done:
+![dashboard excel](https://github.com/user-attachments/assets/c8eab372-382b-4ba7-9acc-50a0faefca55)
+
 ![dashboard excel](https://github.com/user-attachments/assets/53bb5a71-26a5-42f1-9256-36c6e4b12753)
 
 
